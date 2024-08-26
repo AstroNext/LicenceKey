@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LicenceKey", "LicenceKey\LicenceKey.csproj", "{D4FEBC02-7F1C-474A-AB4E-E770F5CB8AC8}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "LicenceKeySetup", "LicenceKeySetup\LicenceKeySetup.vdproj", "{B93A9A59-ABED-4C51-AAA2-4718541312AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4FEBC02-7F1C-474A-AB4E-E770F5CB8AC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4FEBC02-7F1C-474A-AB4E-E770F5CB8AC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4FEBC02-7F1C-474A-AB4E-E770F5CB8AC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4FEBC02-7F1C-474A-AB4E-E770F5CB8AC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B93A9A59-ABED-4C51-AAA2-4718541312AA}.Debug|Any CPU.ActiveCfg = Debug
+		{B93A9A59-ABED-4C51-AAA2-4718541312AA}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
